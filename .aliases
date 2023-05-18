@@ -1,0 +1,3 @@
+# Always use color output for `ls`
+alias ls="command ls ${colorflag}"
+alias ll="command ls -l"
